@@ -16,6 +16,7 @@ A full-featured eCommerce web application built using the MERN (MongoDB, Express
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JWT, bcrypt
+- **Authentication**: JWT,
 
 ## Installation
 
